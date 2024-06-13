@@ -1,5 +1,6 @@
+![LUSID_by_Finbourne](./resources/Finbourne_Logo_Teal.svg)
+
 # LUSID<sup>®</sup> Workflow SDK Extensions C#
-![LUSID by Finbourne](https://content.finbourne.com/LUSID_repo.png)
 
 These are the C# SDK Extensions to accompany the [C# SDK (Preview) for the Workflow application](https://github.com/finbourne/workflow-sdk-csharp-preview). The Workflow application provides.........
 
